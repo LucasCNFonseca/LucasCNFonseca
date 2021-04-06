@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 # Iae!
 
-Meu nome é Lucas de Castro e sou estudante de Ciência da Computação. Sou de Maceió, Alagoas.
+Meu nome é Lucas de Castro e sou estudante de Ciência da Computação.
+
+####Sou de Maceió, Alagoas.
 
