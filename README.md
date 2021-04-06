@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 Reach me out 🔎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascnf/detail/contact-info/)](https://www.linkedin.com/in/lucascnf/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-9933ff?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas.cnf/)](https://www.instagram.com/lucas.cnf/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascnf/detail/contact-info/)](https://www.linkedin.com/in/lucascnf/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff3300?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas.cnf/)](https://www.instagram.com/lucas.cnf/)
