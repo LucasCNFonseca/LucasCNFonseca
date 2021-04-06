@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 #### 🚀 A resolução de um desafio no nosso caminho é o combustível para chegar ao próximo! 🪐 
 
-- 📚 Studying Computer Science.
-- 🌎 I'm from Brazil.
+- 📚 Studying Computer Science
+- 🌎 I'm from Brazil
 - 🌐 Web Developer
 
 <div style="display: inline_block"><br>
