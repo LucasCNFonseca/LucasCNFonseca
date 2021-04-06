@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - 🌎 I'm from Brazil.
 - 🌐 Web Developer
 
+<img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 Reach me out 🔎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascnf/detail/contact-info/)](https://www.linkedin.com/in/lucascnf/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff3300?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas.cnf/)](https://www.instagram.com/lucas.cnf/)
