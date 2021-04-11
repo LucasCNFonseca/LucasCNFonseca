@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hey!  👨‍💻
 
-<img src="https://lh3.googleusercontent.com/foN9ZG_4pqbIiR43u3EkY83rCKp6x4ToNliSfwyswU15AXPrKdxAVDufFXZf_qIZje67SZ4Wk9F1FlBAqDrD6PUlA0-Ftvs1uaWksk8lHXZb0Q16-MteLFgDyV7yfO2kkNzGxL_CFv59GuU6cEtdHfQT9kb3qpng8wwueoBgup59EHn_jy2CZaDo6oyV_zM_lkMe1QM12EGVkg50JzK3nyZStBkOouOLHpVjAaAp4osMm07qEv2__0wbEXdwcoz3FSEsSorv2euJeqSVTkHA5fq8nlrjs7gVgvTSRpn5LWN_vDAjeodiAJPtCAD_b6zKazknXSH3F-HDbgSqTgd1MOc5gO4Tdd8_-p4E0hWe4XilOtBqC0N6D_meBxvsINGaC3U0Af1JwYhAwy7UE-8jlXPZHvksgb_VPIvor3dT_x_nPcqf7LWOoCZtYKcu-_tIcdYdRuriUMYBbBcAqt-uNpWmNREi1btmVDF3WnbA03-qWTG_aZq_Ad2fYf7qjywNfD7hmXVEsUCbB53RaPFnIo6p317wpfxwgD3F9PNe-SdhIVTyT_snaZpxJPqetE1nN0Q3OeknGkfSaA3JHVHs2Al7p0PlkjKS22Riv5qjv9WVvYikX2iKEuB7WFwHDx7A30oRI2mrrDsvAP5GVJSBsRaGkr08cpRokcEZA7OplfuCxHoHYPjMFPaDEv4w_u1lisk3b985tXLB0Ay5ojfbewM=w1581-h515-no?authuser=2">
+<img src="download/github.png">
 
 #### 🚀 A resolução de um desafio no nosso caminho é o combustível para chegar ao próximo! 🪐 
 
