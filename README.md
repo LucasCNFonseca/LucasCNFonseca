@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hey!  👨‍💻
 
-<img src="https://i.pinimg.com/originals/18/49/c9/1849c90f6e6d7aa548058ec98dd527e6.png">
+<img src="https://i.pinimg.com/originals/3a/71/d1/3a71d1802ab24134c23289667916248b.png">
 
 #### 🚀 A resolução de um desafio no nosso caminho é o combustível para chegar ao próximo! 🪐 
 
