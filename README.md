@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey!  👨‍💻
+# Opa!  👨‍💻
 
 <img src="https://i.pinimg.com/originals/3a/71/d1/3a71d1802ab24134c23289667916248b.png">
 
