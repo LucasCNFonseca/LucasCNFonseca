@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block">
   <a href="https://github.com/So1310">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=So1310&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=So1310&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=So1310&layout=compact&langs_count=16&theme=material-palenight">
 </div>
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
   
-- Reach me out 🔎
+  Reach me out 🔎
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascnf/detail/contact-info/)](https://www.linkedin.com/in/lucascnf/) 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff3300?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas.cnf/)](https://www.instagram.com/lucas.cnf/)
