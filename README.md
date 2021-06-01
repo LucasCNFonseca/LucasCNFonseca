@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ##
 
-<div><br>
+<div style="display: inline_block"><br>
   Reach me out 🔎
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascnf/detail/contact-info/)](https://www.linkedin.com/in/lucascnf/) 
