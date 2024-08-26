@@ -45,7 +45,4 @@ Here are some ideas to get you started:
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCNFonseca&layout=compact&langs_count=16&theme=material-palenight"/>
 
   ##
-  
-  ![Snake animation](https://github.com/LucasCNFonseca/LucasCNFonseca/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
