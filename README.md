@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📚 Studying Computer Science
 - 🌎 I'm from Brazil
-- 🌐 Web Developer
+- 🌐 QA
 
 <div><br>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
